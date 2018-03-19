@@ -1,0 +1,102 @@
+
+
+=Introduction=
+Torrent is a game of strategic social interactions. Not only do you need your team 
+to conquer the world by defeating your opponents, but you need to ensure that your
+teammates remain loyal to each other - and to you!
+
+Each team represents a country, complete with its own military (armies, navies, and air forces),
+state department, press, spy agencies, treaties, infrastructures, populations, etc. Each player on a team
+takes a high level government role (executive, general, etc.). Each player will prove their
+metal at both international diplomacy with other teams, and domestic politics with their
+own teammates.
+
+
+
+=Team=
+When you create a team, you decide its form of government. The form of government
+will decide what powers each player on the team will have in their respective roles.
+
+For example, in a Republic, the leader holds the title President and has powers 
+defined by that form of government.
+
+In a Monarchy, the leader holds the title King or Queen, and holds greater powers than a President. 
+
+In a Democracy, there are no leaders; rather, each player on the team has a vote with the winning
+vote binding each player to a course of action, a policy, or some other outcome.
+
+In an Anarchy, no one has a vote, and there are no leaders. Each player decides for themselves
+what they wish to do to further their team's objectives. While they communicate with each other
+frequently, they answer to no one.
+
+==Forming Your Team==
+To enter a game (you must first start a game), you need to create a team by defining its
+form of government, then invite your friends to join. Typically, the person to create
+a team will take the leadership role for themselves and ask friends to join to assume
+the roles of generals, admirals, ambassadors, spies, and so forth.
+
+
+=Roles=
+First order of business is typically define the form of government you want to form (you want
+your team to operate as), followed by defining the roles that you want to fill, such as an
+admiral if you want a naval carrier group, an air force general if you want a bomber wing,
+a spy master if you want a spy agency, and so forth.
+
+===President===
+The President is the executive leader and civilian commander in chief of a Republic. He issues
+commands to all other team players as he sets both domestic and foreign policies. He has the
+power to hire any person into any role (invite a teammate) and to fire any person (remove from
+the team) at any time without cause. So long as he is President, he literally owns the team - yet,
+he cannot directly control any military assets on his team. For that he must trust his teammates
+to follow his orders. If any teammate refuses a presidential order, the only recourse available
+to the President is to fire the insubordinate teammate.
+
+This relationship between the President and his teammates creates a tension in the game, where
+the President must demonstrate effective leadership to the world while at the same time not
+having any direct control over his military and taking into consideration the advice of his
+teammates lest they overthrow their president either through impeachment or a military coup.
+
+===Monarch===
+The Monarch is very similar to a President, except that the Monarch cannot be impeached,
+a military coup leads to a dictatorship form of government for the team.
+
+===Dictator===
+The Dictator is like the President, but cannot be impeached and has more influence over 
+the military. However, the bar for a coup is much lower, making the Dictator more easily
+toppled by a single player.
+
+===Anarchist===
+An Anarchist is equal before his teammates. They are never able to order their teammates to
+do anything, and cannot be ordered themselves. They cannot be overthrown. They can be invited,
+but cannot be fired. They can quit a team and take their assets with them to form a new team
+or join an existing team.
+
+===Democrat===
+A Democrat is much like an Anarchist, except that when a vote is taken for an action or policy,
+it becomes binding upon all players of that Democracy team. Anyone not obeying the order or
+policy can be fired by vote. All votes are simple majority. There is no leader to overthrow.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,32 @@
+
+
+=Overview=
+Team members are assigned different roles, have different assets, and enjoy different privileges.
+
+As the game matures, teams will enjoy more capabilities and flexibilities in defining their
+government structures and what options they can choose when setting up the powers of those
+governments and the powers enjoyed by the various players on their team.
+
+
+
+=The Office of the President=
+The President is the executive leader and civilian commander in chief of a Republic.
+
+===strengths===
+The strengths of the Office of the President include:
+<br>- Creates and owns the team.
+<br>- Issues orders to all other members.
+<br>- Unilateral power to hire (invite onto team) and fire (kick off team).
+<br>- Communicates with world leaders.
+
+===weaknesses===
+The weaknesses of the Office of the President include:
+<br>- No direct control over any military assets.
+<br>- Vulnerable to a military coup.
+<br>- Vulnerable to impeachment.
+<br>- Can be mislead by subordinates.
+
+By definition, a Republic is a nation of laws, in which the rule of law is supreme. This
+means that the laws of the Republic define the structure of the team's command and control
+of the military. This has direct impact on how military orders are issued and carried out.
+
